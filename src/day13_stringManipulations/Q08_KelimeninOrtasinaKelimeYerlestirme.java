@@ -27,16 +27,19 @@ public class Q08_KelimeninOrtasinaKelimeYerlestirme {
 		System.out.println("Isim2:  ");
 		String name2 = scan.next();
 		int OrtaBul;
-
 		if (name1.length() % 2 == 1) {
-			 OrtaBul = name1.length() / 2 ;
-			 System.out.println(name1.substring(0, OrtaBul) + name2 + name1.substring(OrtaBul+1));	
-		} else {
-		OrtaBul = name1.length() / 2;
-		System.out.println(name1.substring(0, OrtaBul) + name2 + name1.substring(OrtaBul));
+			System.out.println(
+					"Ilk isim tek sayida karakter iceriyor\nnormalde ortasina bir kelime yerlestirilemez\nama "
+					+ "ben tam ortadaki harfi kaldirip\nonun yerine ikinci kelimeyi yerlestirecegim");
 		}
-
-		
+		System.out.println("===================================");
+		if (name1.length() % 2 == 1) {
+			OrtaBul = name1.length() / 2;
+			System.out.println(name1.substring(0, OrtaBul) + name2 + name1.substring(OrtaBul + 1));
+		} else {
+			OrtaBul = name1.length() / 2;
+			System.out.println(name1.substring(0, OrtaBul) + name2 + name1.substring(OrtaBul));
+		}
 
 		scan.close();
 
