@@ -2,7 +2,7 @@ package day19_WhileLoop_doWhileLoop;
 
 import java.util.Scanner;
 
-public class Q06 {
+public class Q06carpimtablosu {
 
 	public static void main(String[] args) {
 		/* Kullanicidan bir rakam alin ve bu rakam icin carpim tablosunu ekrana 

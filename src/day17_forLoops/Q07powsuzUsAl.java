@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q07 {
+public class Q07powsuzUsAl {
 //pow() metodu kullanmadan girilen sayýnýn üssünü alan programýni yaziniz
 
 	public static void main(String[] args) {

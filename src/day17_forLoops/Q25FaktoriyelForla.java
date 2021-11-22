@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q25 {
+public class Q25FaktoriyelForla {
 
 	public static void main(String[] args) {
 		// Kullanicidan 10’dan kucuk bir tamsayi isteyin ve girilen 

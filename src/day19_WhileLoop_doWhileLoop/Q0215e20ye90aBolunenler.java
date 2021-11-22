@@ -1,6 +1,6 @@
 package day19_WhileLoop_doWhileLoop;
 
-public class Q02 {
+public class Q0215e20ye90aBolunenler {
 
 	public static void main(String[] args) {
 		// For loop ve while Loop kullanarak 3 basamakli sayilardan 15, 20 ve 90’na tam 

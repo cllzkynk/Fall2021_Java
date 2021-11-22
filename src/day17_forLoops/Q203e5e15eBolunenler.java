@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q20 {
+public class Q203e5e15eBolunenler {
 	public static void main(String[] args) {
 		// Kullanicidan 100’den kucuk bir tamsayi isteyin. 1’den baslayarak girilen
 		// sayiya kadar

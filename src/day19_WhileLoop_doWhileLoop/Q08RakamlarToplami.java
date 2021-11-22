@@ -2,7 +2,7 @@ package day19_WhileLoop_doWhileLoop;
 
 import java.util.Scanner;
 
-public class Q08 {
+public class Q08RakamlarToplami {
 
 	public static void main(String[] args) {
 		/*

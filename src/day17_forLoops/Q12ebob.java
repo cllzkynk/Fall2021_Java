@@ -3,7 +3,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q12 {
+public class Q12ebob {
 // girilen iki sayinin ebobunu bulunuz
 	
 	public static void main(String[] args) {

@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q22 {
+public class Q22TersString {
 
 	public static void main(String[] args) {
 		// Kullanicidan bir String isteyin ve Stringi tersten yazdirin

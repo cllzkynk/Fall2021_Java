@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q08 {
+public class Q08cifleritopla {
 //n  sayýya kadar olan tek sayýlarýn toplamýný yazdýriniz
 
 	// tek ==> %2

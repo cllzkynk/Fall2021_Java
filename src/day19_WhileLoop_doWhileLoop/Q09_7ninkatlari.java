@@ -1,6 +1,6 @@
 package day19_WhileLoop_doWhileLoop;
 
-public class Q09 {
+public class Q09_7ninkatlari {
 
 	public static void main(String[] args) {
 		//9 den 190 e kadar 7 nin kati olan tum tamsayilari ekrana yazdiriniz.

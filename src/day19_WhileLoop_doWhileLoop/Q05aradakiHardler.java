@@ -2,7 +2,7 @@ package day19_WhileLoop_doWhileLoop;
 
 import java.util.Scanner;
 
-public class Q05 {
+public class Q05aradakiHardler {
 	public static void main(String[] args) {
 		/*
 		 * Kullanicidan baslangic ve bitis haflerini alin ve baslangic harfinden

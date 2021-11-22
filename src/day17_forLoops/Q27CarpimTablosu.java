@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q27 {
+public class Q27CarpimTablosu {
 
 	public static void main(String[] args) {
 		// Kullanicidan pozitif bir rakam girmesini isteyin ve girilen rakama gore carpim 

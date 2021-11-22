@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q13 {
+public class Q13ekok {
 // girilen sayilarin ekokunu bulunuz 
 
 	public static void main(String[] args) {

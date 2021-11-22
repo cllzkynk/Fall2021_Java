@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q23 {
+public class Q23StringPalindrome {
 
 	public static void main(String[] args) {
 		// Kullanicidan bir String isteyin. Kullanicinin girdigi String’in

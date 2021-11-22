@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q09 {
+public class Q091den_nekadarAsallar {
 //1 -n arasýndaki asal sayýlarý yazdýriniz 
 
 	public static void main(String[] args) {

@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q11 {
+public class Q11carpimtablosu {
 	// kullanýcý tarafýndan girilen sayýnýn çarpým tablosunu oluþturunuz
 
 	public static void main(String[] args) {

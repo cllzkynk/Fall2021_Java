@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q10 {
+public class Q101denXekadarsayilaritopla {
 //1’den baþlayarak verilen sayýya kadar olan tüm sayýlarýn toplaminin sonucunu bulunuz
 
 	public static void main(String[] args) {

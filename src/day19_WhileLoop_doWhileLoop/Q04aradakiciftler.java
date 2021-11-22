@@ -2,7 +2,7 @@ package day19_WhileLoop_doWhileLoop;
 
 import java.util.Scanner;
 
-public class Q04 {
+public class Q04aradakiciftler {
 
 	public static void main(String[] args) {
 		// Kullanicidan baslangic ve bitis degerlerini alin. Baslangic degeri ve bitis

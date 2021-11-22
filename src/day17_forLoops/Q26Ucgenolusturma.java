@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q26 {
+public class Q26Ucgenolusturma {
 	public static void main(String[] args) {
 		//Kullanicidan pozitif bir rakam girmesini isteyin ve girilen rakama gore 
 		//asagidaki sekli cizdirin

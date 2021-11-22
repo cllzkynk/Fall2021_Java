@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q06 {
+public class Q06YazidaHarfKacDefa {
 	public static void main(String[] args) {
 
 		// Bir yazý içinde belirtilen bir karakterin kaç tane olduðunu yazdýriniz

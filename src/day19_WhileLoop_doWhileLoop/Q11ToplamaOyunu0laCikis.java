@@ -2,7 +2,7 @@ package day19_WhileLoop_doWhileLoop;
 
 import java.util.Scanner;
 
-public class Q11 {
+public class Q11ToplamaOyunu0laCikis {
 
 	public static void main(String[] args) {
 		// Kullanicidan toplamak uzere pozitif sayilar isteyin, islemi bitirmek icin 0’a basmasini 

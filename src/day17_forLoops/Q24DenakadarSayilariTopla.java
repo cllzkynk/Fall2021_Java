@@ -2,7 +2,7 @@ package day17_forLoops;
 
 import java.util.Scanner;
 
-public class Q24 {
+public class Q24DenakadarSayilariTopla {
 
 	public static void main(String[] args) {
 		// Kullanicidan iki sayi isteyin. Girilen sayilar ve aralarindaki tum
