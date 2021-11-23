@@ -16,6 +16,6 @@ public class C04_Arrays {
 		System.out.println("");
 
 		// Ya da Arrays Class'indan yardim alip direk array olarak yazdirabiliriz
-		System.out.println(Arrays.toString(arr));
+		System.out.println(Arrays.toString(arr)); // array olarak yazar
 	}
 }

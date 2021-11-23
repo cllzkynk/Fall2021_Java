@@ -9,7 +9,7 @@ public class C05_Arrays {
 		// tasiyacak bir program yazin. Ornek; array [1,2, 3] ise output [2, 3, 1]
 		// olacak.
 
-		int arr[] = { 1, 2, 3, };
+		int arr[] = { 0,1, 2, 3,4,5 };
 		int temp = arr[0]; // Array 0'inci index = temp
 
 		for (int i = 0; i < arr.length - 1; i++) { // arr.length-1 son index demek
