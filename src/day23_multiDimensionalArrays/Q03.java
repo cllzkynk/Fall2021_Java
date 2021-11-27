@@ -2,8 +2,8 @@ package day23_multiDimensionalArrays;
 
 public class Q03 {
 
-	static int arr1[][] = { { 1, 2 }, { 3, 4, 5 }, { 6, 9 } };
-	static int arr2[][] = { { 7, 8, 9 }, { 10, 11 }, { 12, 15, 3 } };
+	static int arr1[][] = { { 1, 2 }, { 3, 4, 5 }, { 6 } };
+	static int arr2[][] = { { 7, 8, 9 }, { 10, 11 }, { 12} };
 
 	public static void main(String[] args) {
 

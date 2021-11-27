@@ -6,30 +6,29 @@ public class Q09_Fibonacci {
 
 	public static void main(String[] args) {
 		// fibonacci sayisi olustrunuz
-		
 
-		 
-        Scanner klavye=new Scanner(System.in);
-        System.out.println("Kaç Adet Fibonnacci Sayýsý Görmek Ýstiyorsunuz?");
-        int sayi=klavye.nextInt();
-        int birinci=0;
-        int ikinci=1;
-        int ucuncu=birinci+ikinci;
-        
-        System.out.println("Fibonacci Sayýlarý ");  
-        System.out.print(birinci+ " "+ikinci+ " "); 
-        
-            while(sayi>0){
-            System.out.print(ucuncu+ " "); 
-            sayi--;        
-            birinci=ikinci;
-            ikinci=ucuncu;      
-            ucuncu=birinci+ikinci; 
-             
-              
-          }   
-        klavye.close();
-    }
+		Scanner klavye = new Scanner(System.in);
+		System.out.println("Kaç Adet Fibonnacci Sayýsý Görmek Ýstiyorsunuz?");
+		int sayi = klavye.nextInt();
+		int birinci = 0;
+		int ikinci = 1;
+		int ucuncu = birinci + ikinci;
+
+		if (sayi >= 3) {
+			System.out.println("Fibonacci Sayýlarý ");
+			System.out.print(birinci + " " + ikinci + " ");
+
+			while (sayi > 0) {
+				System.out.print(ucuncu + " ");
+				sayi--;
+				birinci = ikinci;
+				ikinci = ucuncu;
+				ucuncu = birinci + ikinci;
+			}
+		} else {
+			System.out.println("Biraz buyuk gir de yazdigimiza degsin");
+		}
+		// klavye.close();
+	}
 
 }
-
