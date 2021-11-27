@@ -28,7 +28,7 @@ public class Q09_Fibonacci {
 		} else {
 			System.out.println("Biraz buyuk gir de yazdigimiza degsin");
 		}
-		// klavye.close();
+		 klavye.close();
 	}
 
 }
