@@ -5,7 +5,10 @@ public class C06_Varargs {
 	public static void main(String[] args) {
 		// verilen sayilari toplayan bir method olusturmak istiyorum
 		// 
-		
+		Runtime rs = Runtime.getRuntime();
+		 System.out.println("Garbage collection öncesi JVM'deki boþ hafýza miktarý = "+rs.freeMemory());
+		 rs.gc();
+		    System.out.println("Garbage collection sonrasý JVM'deki boþ hafýza miktarý = "+rs.freeMemory());
 		int a=10;
 		int b=20;
 		int c=30;
@@ -41,6 +44,7 @@ public class C06_Varargs {
 		
 		System.out.println("iki sayinin toplami : " + (a+b));
 		
+		 
 	}
 
 }
