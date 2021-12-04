@@ -2,6 +2,7 @@ package day32_varargs_stringBuilder;
 
 public class C06_StringBuilder {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		String str = "Ali Can";
