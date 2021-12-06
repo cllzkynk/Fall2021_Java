@@ -9,6 +9,7 @@ public class C01_IndexOf {
 
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Lutfen bir cumle giriniz");
+	
 
 		String cumle = scan.nextLine();
 		System.out.println("Lutfen varligini kontrol etmek icin bir harf giriniz");
