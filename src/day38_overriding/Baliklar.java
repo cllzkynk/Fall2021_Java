@@ -8,6 +8,10 @@ public class Baliklar extends Animals{
 		balik1.beslenme(); // Tum hayvanlar beslenir
 		balik1.hareket(); //Baliklar yuzerek hareket eder
 		balik1.solunum(); // Baliklar solungaclariyla nefes alir
+		
+		System.out.println(balik1.ayakSayisi);
+		balik1.ayakSayisi=2;
+		System.out.println(balik1.ayakSayisi);
 
 	}
 	@Override

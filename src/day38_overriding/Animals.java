@@ -1,7 +1,7 @@
 package day38_overriding;
 
 public class Animals {
-
+static int ayakSayisi=4;
 	public static void main(String[] args) {
 		
 
