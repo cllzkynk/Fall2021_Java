@@ -7,10 +7,10 @@ public class KelimeKelimeTersten {
 public static void main(String[] args) {
 
 	Scanner scan = new Scanner(System.in);
-	System.out.println("Lütfen isminizi ve kaç kelime olduðunu girin");
+	System.out.println("Lutfen isminizi ve kac kelime olduï¿½unu girin");
 	String isim=scan.nextLine();
 	int num = scan.nextInt();
-	String isimFormatlýSon="";
+	String isimFormatliSon="";
 	
 	
 	for(int i=1; i<num; i++) {

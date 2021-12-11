@@ -2,6 +2,7 @@ package day04_IncrementDecrement;
 
 public class C08_Odev {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		/*		Soru 1 ) byte veri tipinde bir degisken olusturun, short,int,float ve double data tiplerinde 
 		birer degisken olusturup adim adim widening yapin ve yazdirin
@@ -89,6 +90,9 @@ public class C08_Odev {
 		System.out.println("bolmeler ; "+ "\ng/f  :"+ (g/f)+"\nd/c  : " +(d/c) + "\nb/a   :"+(b/a));
 
 		System.out.println("farklar ; " + "\ng-d  :"+ (g-d)+"\nf-g  : " +(f-g) + "\na-c   :"+(a-c));
+		
+		int x=5;
+	 
 		
 	}
 

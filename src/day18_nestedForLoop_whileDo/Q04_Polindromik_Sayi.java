@@ -1,21 +1,21 @@
 package day18_nestedForLoop_whileDo;
 
-public class Q04_Polindromik_Sayý {
+public class Q04_Polindromik_Sayi {
 
 	public static void main(String[] args) {
 		/*
-		 * Ýki taraftan okunduðu zaman ayný olan doðal sayýlara polindromik sayýlar
-		 * denir. Tersten yazýldýklarýnda deðiþmezler. Örneðin;
+		 * ï¿½ki taraftan okunduï¿½u zaman aynï¿½ olan doï¿½al sayï¿½lara polindromik sayï¿½lar
+		 * denir. Tersten yazï¿½ldï¿½klarï¿½nda deï¿½iï¿½mezler. ï¿½rneï¿½in;
 		 * 
 		 * 
 		 * 
-		 * 11 – 22 – 33 – 44 – 55 – 66 – 77 – 88 – 101 – 121 – 131 – 10201 – 12321 –
+		 * 11 ï¿½ 22 ï¿½ 33 ï¿½ 44 ï¿½ 55 ï¿½ 66 ï¿½ 77 ï¿½ 88 ï¿½ 101 ï¿½ 121 ï¿½ 131 ï¿½ 10201 ï¿½ 12321 ï¿½
 		 * 14641 gibi.
 		 * 
 		 * 
 		 * 
-		 * Öyleyse 1000 ile 10000 arasýndaki polindromik sayýlarý yazdýran Java
-		 * kodlarýný oluþturunuz
+		 * ï¿½yleyse 1000 ile 10000 arasï¿½ndaki polindromik sayï¿½larï¿½ yazdï¿½ran Java
+		 * kodlarï¿½nï¿½ oluï¿½turunuz
 		 */
 		int yuzler,onlar,birler,binler;
         for(int i=1000;i<10000;i++){
@@ -28,7 +28,7 @@ public class Q04_Polindromik_Sayý {
             
             
             if(binler== birler&& yuzler==onlar){
-                System.out.println(i+" Polindromik Sayýdýr.");
+                System.out.println(i+" Polindromik Sayidir.");
             }
         }
         
