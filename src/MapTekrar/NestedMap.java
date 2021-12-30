@@ -30,4 +30,5 @@ public class NestedMap {
     System.out.println(kisiListesi.get(4413)); //{Ad=Nilüfer, Soyad=Demir, Bölüm=Dev, Adres=Ankara}
     System.out.println(kisiListesi.get(4413).get("Ad")); //Nilüfer
   }
+
 }
